@@ -1,0 +1,4 @@
+name: PrisonQuests
+main: io.github.DatingSimulation.Quests.Main
+version: 0
+commands:
